@@ -9,55 +9,55 @@ tags: [bookmarks, websites]
 ### Threat Intelligence
 
 **News and Information:**
-- [The Hacker News](https://thehackernews.com/): Cybersecurity news site
-- [BleepingComputer](https://www.bleepingcomputer.com/): Cybersecurity news site
-- [Cyware](https://cyware.com/cyber-security-news-articles/): Cybersecurity news platform
+- [The Hacker News](thehackernews.com/): Cybersecurity news site
+- [BleepingComputer](www.bleepingcomputer.com/): Cybersecurity news site
+- [Cyware](cyware.com/cyber-security-news-articles/): Cybersecurity news platform
 
 **Threat Monitoring:**
-- [Cisco Talos](https://talosintelligence.com/): Cisco Talos Threat Intelligence Platform
-- [IBM Xcloud](https://exchange.xforce.ibmcloud.com/): IBM Threat Intelligence Platform
-- [Cybermap](https://cybermap.kaspersky.com/): Kaspersky live threat map
+- [Cisco Talos](talosintelligence.com/): Cisco Talos Threat Intelligence Platform
+- [IBM Xcloud](exchange.xforce.ibmcloud.com/): IBM Threat Intelligence Platform
+- [Cybermap](cybermap.kaspersky.com/): Kaspersky live threat map
 
 **Vulnerability Information:**
-- [CVE Details](https://www.cvedetails.com/): Common Vulnerabilities and Exposures (CVE) details
-- [CVE NIST](https://nvd.nist.gov/vuln): National Institute of Standards and Technology (NIST) CVE database
+- [CVE Details](www.cvedetails.com/): Common Vulnerabilities and Exposures (CVE) details
+- [CVE NIST](nvd.nist.gov/vuln): National Institute of Standards and Technology (NIST) CVE database
 
 **OSINT**
-- [AbuseIP](https://www.abuseipdb.com/): IP reputation database
-- [Bulkblacklist](https://www.bulkblacklist.com/): Bulk IP Check
-- [Shodan](https://www.shodan.io/): Search Engine for the Internet of Everything
-- [CriminalIP](https://www.criminalip.io/): Public info on different entities (like shodan)
+- [AbuseIP](www.abuseipdb.com/): IP reputation database
+- [Bulkblacklist](www.bulkblacklist.com/): Bulk IP Check
+- [Shodan](www.shodan.io/): Search Engine for the Internet of Everything
+- [CriminalIP](www.criminalip.io/): Public info on different entities (like shodan)
 
 **IoC Feeds:**
-- [URLhause](https://urlhaus.abuse.ch/browse/): Malware feeds
-- [PhishTank](http://phishtank.org/index.php): Phishing reputation database
-- [Twettfedd](https://tweetfeed.live/researchers.html): Twitter feeds
-- [BlockListProject](https://github.com/blocklistproject/Lists/#lists): Bad domains and bad IP feed
-- [FireHolIP](https://iplists.firehol.org/): Bad IP feed
+- [URLhause](urlhaus.abuse.ch/browse/): Malware feeds
+- [PhishTank](phishtank.org/index.php): Phishing reputation database
+- [Twettfedd](tweetfeed.live/researchers.html): Twitter feeds
+- [BlockListProject](github.com/blocklistproject/Lists/#lists): Bad domains and bad IP feed
+- [FireHolIP](iplists.firehol.org/): Bad IP feed
 
 ### Security Operations
 
 **Online Threat Scanning / Analysis:**
-- [Virustotal](https://www.virustotal.com/): Online threat scanner
-- [Hybrid-analysis](https://www.hybrid-analysis.com/): Online threat scanner
-- [Urlscan.io](https://urlscan.io/): URL scanner
-- [Eml-analyzer](https://eml-analyzer.herokuapp.com/): Mail header analysis
-- [Verdict Valkyrie](https://verdict.valkyrie.comodo.com/): Online threat scanner
+- [Virustotal](www.virustotal.com/): Online threat scanner
+- [Hybrid-analysis](www.hybrid-analysis.com/): Online threat scanner
+- [Urlscan.io](urlscan.io/): URL scanner
+- [Eml-analyzer](eml-analyzer.herokuapp.com/): Mail header analysis
+- [Verdict Valkyrie](verdict.valkyrie.comodo.com/): Online threat scanner
 
 **Browser and Network Tools:**
-- [Browserling](https://www.browserling.com/): Browser service
-- [Centrlaops](https://centralops.net/co/): Network utility
-- [Infobyip Bulk Whois](https://www.infobyip.com/ipbulklookup.php): Bulk whois search
-- [Infobyip](https://www.infobyip.com/internettools.php): Internet tools
+- [Browserling](www.browserling.com/): Browser service
+- [Centrlaops](centralops.net/co/): Network utility
+- [Infobyip Bulk Whois](www.infobyip.com/ipbulklookup.php): Bulk whois search
+- [Infobyip](www.infobyip.com/internettools.php): Internet tools
 
 **Cryptographic Operations and Sandbox:**
-- [CyberChef](https://gchq.github.io/CyberChef/): Cryptographic operations
-- [Anyrun](https://any.run/): Online malware sandbox
+- [CyberChef](gchq.github.io/CyberChef/): Cryptographic operations
+- [Anyrun](any.run/): Online malware sandbox
 
 **Public Knowledge:**
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/): Malware analysis and information
-- [Microsoft Threats](https://www.microsoft.com/en-us/wdsi/threats): Microsoft malware information
-- [File.net](https://www.file.net/): File information and analysis
+- [Malpedia](malpedia.caad.fkie.fraunhofer.de/): Malware analysis and information
+- [Microsoft Threats](www.microsoft.com/en-us/wdsi/threats): Microsoft malware information
+- [File.net](www.file.net/): File information and analysis
 
 ## Red Team
 
@@ -66,8 +66,8 @@ tags: [bookmarks, websites]
 ### PT & VA
 
 **Online Tools:**
-- [Hackertarget](https://hackertarget.com/): Online scanner and tools
-- [Subdomainfinder](https://subdomainfinder.c99.nl/): Subdomain finder
+- [Hackertarget](hackertarget.com/): Online scanner and tools
+- [Subdomainfinder](subdomainfinder.c99.nl/): Subdomain finder
 
 **Public Knowledge:**
-- [ExploitDB](https://www.exploit-db.com/): Repository of exploits
+- [ExploitDB](www.exploit-db.com/): Repository of exploits
