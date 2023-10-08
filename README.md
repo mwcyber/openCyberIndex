@@ -6,7 +6,7 @@ Welcome to open Cyber Index, a simple collection of useful websites and web appl
 This HUGO blog is a place to keep useful stuff, like bookmarks for websites. In the future, it'll have even more, like cheat sheets and other helpful things.
 The primary focus areas are Cybersecurity and general Information Technology (IT).
 
-**Go live here: https://mwcyber.github.io/openCyberIndex2/**
+**Go live here: https://mwcyber.github.io/openCyberIndex/**
 
 ## What is it
 
