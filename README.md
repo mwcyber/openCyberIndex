@@ -3,28 +3,28 @@
 ## Introduction
 
 Welcome to open Cyber Index, a simple collection of useful websites and web applications categorized for easy access. 
-This HUGO blog is a place to keep useful stuff, like bookmarks for websites. In the future, it'll have even more, like cheat sheets and other helpful things.
+This Jekyll blog is a place to keep useful stuff, like bookmarks for websites. In the future, it'll have even more, like cheat sheets and other helpful things.
 The primary focus areas are Cybersecurity and general Information Technology (IT).
 
 **Go live here: https://mwcyber.github.io/openCyberIndex/**
 
 ## What is it
 
-This project is a HUGO-powered blog built to organize and store valuable resources in a markdown format.
+This project is a Jekyll-powered blog built to organize and store valuable resources in a markdown format.
 It provides a structured way to catalog and share links to useful sites and web applications.
 The content is categorized into different sections, making it easy for users to navigate and find relevant information.
 
 ### Main Technologies Used
 
-- **HUGO:** A fast and flexible static site generator.
+- **Jekyll:** A fast and flexible static site generator.
 - **Markdown:** A lightweight markup language for creating formatted text using plain text.
 
 ## How it works
 
-open Cyber Index operates on the simplicity of HUGO and markdown.
+open Cyber Index operates on the simplicity of Jekyll and markdown.
 Resources are added to the blog using markdown files, making it easy to contribute and maintain.
 The structure of the blog is organized by categories, with each category containing markdown files representing individual resources.
-The blog is then built using HUGO, creating a static site that can be easily hosted and shared.
+The blog is then built using Jekyll, creating a static site that can be easily hosted and shared.
 
 ## Getting Started
 
